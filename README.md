@@ -1,0 +1,1 @@
+My name is Joel Emmanuel Setordzi. A WEB technology enthusiasts and a life-long learner. This is a project on building a calculator app to demonstrate my skills acquired so far.

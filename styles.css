@@ -1,0 +1,23 @@
+body {
+    background-color:blueviolet;
+}
+
+div#container {
+    border: 1px solid red; 
+    padding: 10px; 
+    max-width: 15%; 
+    margin: 0 auto;
+}
+
+div#output {
+    background-color:lavender; 
+    padding-right:2px;
+    width:100%;
+    text-align:right; 
+    border-width:0;
+}
+
+#input {
+    width:100%; 
+    border-width: 0;
+}
